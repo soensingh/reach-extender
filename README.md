@@ -10,7 +10,8 @@ A tiny macOS menu bar app that swaps your cursor for a cartoon glove on a stick.
 Every click lands with a tap people can see and hear, so everyone on your call, demo or recording knows exactly where you clicked.
 
 [![macOS 14+](https://img.shields.io/badge/macOS-14%2B-1E0A5C)](#download)
-[![Download](https://img.shields.io/badge/Download-reachextender.soensingh.com-7B3FF2)](https://reachextender.soensingh.com/download)
+[![Mac app: coming soon](https://img.shields.io/badge/Mac%20app-coming%20soon-7B3FF2)](#download)
+[![Try it in your browser](https://img.shields.io/badge/Try%20it-in%20your%20browser-7B3FF2)](https://reachextender.soensingh.com)
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary-555555)](LICENSE)
 [![Windows: coming soon](https://img.shields.io/badge/Windows-coming%20soon-888888)](#faq)
 
@@ -51,35 +52,33 @@ Screen shares shrink your cursor to a speck. Reach Extender gives it a body.
 
 ## See it in action
 
-<!--
-  DEMO: record a short clip (10–20 s) of the glove tapping through a slide or an app,
-  export it as a GIF no wider than 1280 px and under ~8 MB, and save it as
-  assets/demo.gif, replacing the placeholder. Nothing else in this README needs to change.
-  From a screen recording (e.g. demo.mov), ffmpeg makes a good-looking GIF:
-    ffmpeg -i demo.mov -vf "fps=15,scale=1280:-1:flags=lanczos,split[a][b];[a]palettegen[p];[b][p]paletteuse" assets/demo.gif
-  For an MP4 instead, drag the file into this README in GitHub's web editor and use the
-  user-attachments link GitHub creates (a video path inside the repo won't play).
--->
 <p align="center">
-  <img src="assets/demo.gif" width="100%" alt="Reach Extender demo">
+  <img src="assets/demo.gif" width="100%" alt="The glove on its stick moves across a shared slide, taps the Get started button and the bars of a chart, then a quick series of clicks on the tallest bar builds up from a sparkle to a burst, a star and a splat.">
 </p>
+
+<p align="center"><sub>Single taps, then a quick series of clicks that builds up to a splat. Recorded from the live demo on the website, which uses the app's own art and tap timing.</sub></p>
+
+**Try it yourself:** open [reachextender.soensingh.com](https://reachextender.soensingh.com) on a computer and your cursor becomes the glove. Click anything.
 
 ## Download
 
-**[Download for Mac from the website](https://reachextender.soensingh.com/download)**, or grab the latest DMG from **[GitHub Releases](https://github.com/soensingh/reach-extender/releases/latest)**.
+**Coming soon.** The Mac app is in its final checks: signing and notarization with Apple, so it opens without warnings.
+
+- **Get notified:** click **Watch → Custom → Releases** at the top of this page, or leave your email on the [download page](https://reachextender.soensingh.com/download).
+- **Can't wait?** [Try the glove in your browser](https://reachextender.soensingh.com) right now.
+
+When it's out, the DMG will be on the website and in **[GitHub Releases](https://github.com/soensingh/reach-extender/releases)**:
 
 1. Open the DMG and drag **Reach Extender** into **Applications**.
 2. Open it. Look for the hand in your menu bar: styles, sound and settings live there.
 3. Press **⌃⌥P** to show or hide the pointer.
 
-Requires **macOS 14 Sonoma or later**. A Windows version is in the works.
+It will need **macOS 14 Sonoma or later**. A Windows version is in the works.
 
 Two permissions are optional, and everything else works without them:
 
 - **Accessibility**, only for Presentation Mode (so clicks can be held back).
 - **Screen Recording**, only for Automatic flash color (so it can see the color under the click). Without it, flashes are white in Dark Mode and black in Light Mode.
-
-Want to hear about new versions? Click **Watch → Custom → Releases** at the top of this page.
 
 ## Pricing
 
