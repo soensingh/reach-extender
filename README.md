@@ -115,7 +115,7 @@ You can change both in Settings.
 - Your mouse position, clicks and screen never leave your Mac.
 - Keystrokes are never read. The app only registers its two shortcuts.
 - Automatic flash color looks at a tiny 32×32-pixel patch around each click, in memory only, and never saves or sends it.
-- The app goes online only to check your trial or license. It sends an anonymous device ID (a one-way hash), the app and macOS versions and the trial time used, plus your Mac's name when you activate a license.
+- The app goes online only to check your trial or license, and once a day for updates. The license check sends an anonymous device ID (a one-way hash), the app and macOS versions and the trial time used, plus your Mac's name when you activate a license. The update check sends nothing beyond a normal web request, and updates install only when you say so.
 - The app has no analytics, ads or tracking.
 
 Full details: [privacy policy](https://reachextender.soensingh.com/privacy).
