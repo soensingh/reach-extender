@@ -30,7 +30,12 @@ The first public release, for macOS 14 Sonoma and later.
 - **Keyboard shortcuts:** ⌃⌥P shows or hides the pointer, ⌃⌥T toggles Presentation Mode. Both can be changed in Settings.
 - **Menu bar app** with no Dock icon, a settings window, a welcome window on first launch and an option to open at login.
 - **Reset to Defaults** in Settings.
-- **Licensing:** a 10-minute free trial (it counts only while the pointer is on), a one-time lifetime license for one Mac, a Buy button that opens checkout on the website and hands the key back to the app, and key restore.
+- **Licensing:** a 10-minute free trial, counted only while the pointer is on and you're using your Mac. It warns you at 2 minutes and 30 seconds left, and if it runs out during Presentation Mode the pointer stays until you leave it.
+  - A one-time lifetime license for one Mac. After you pay, the app unlocks by itself.
+  - Your key is emailed to you and can be restored by email.
+  - **Move License to This Mac** for when your old Mac is gone.
+  - Contact Support from inside the app.
+- **Automatic updates** (Sparkle): a daily check and an "Update available" note in the menu. Updates are never installed in the middle of your presentation.
 
 [Unreleased]: https://github.com/soensingh/reach-extender/compare/v0.1.0...HEAD
 [0.1.0]: https://github.com/soensingh/reach-extender/releases/tag/v0.1.0

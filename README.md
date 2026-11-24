@@ -149,7 +149,7 @@ No. One payment, lifetime license, for one Mac.
 <details>
 <summary><b>I'm getting a new Mac. What happens to my license?</b></summary>
 
-A license works on one Mac at a time. On the old Mac, open **Settings → License → Deactivate This Mac**, then enter your key on the new one. Old Mac already gone? Email <a href="mailto:soensingh@gmail.com">soensingh@gmail.com</a> from the address you bought with and we'll move it for you.
+A license works on one Mac at a time. On the old Mac, open **Settings → License → Deactivate This Mac** (it copies your key for you), then enter the key on the new one. Old Mac already gone? Enter your key on the new Mac and choose **Move License to This Mac**. Still stuck? Email <a href="mailto:soensingh@gmail.com">soensingh@gmail.com</a> and we'll move it for you.
 </details>
 
 <details>
