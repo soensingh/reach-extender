@@ -1,0 +1,58 @@
+Reach Extender - Proprietary License
+
+Copyright (c) 2026 Soen Singh. All rights reserved.
+
+1. What this covers
+
+This notice covers everything in this repository (text, documentation,
+images, icons, artwork and the "Reach Extender" name and logo) and every
+application binary published on this repository's Releases page, such as
+.dmg files. Together these are the "Materials".
+
+2. The app
+
+Reach Extender is licensed, not sold. Your use of the app, including any
+copy downloaded from this repository, is governed by the End User License
+Agreement at https://reachextender.soensingh.com/terms. Downloading a
+binary does not give you any rights beyond that agreement.
+
+3. Everything else
+
+No license is granted to the Materials. You may view them on GitHub and use
+GitHub's own features as the GitHub Terms of Service allow. Apart from that,
+and except where the law allows it regardless of this notice, you may not:
+
+  - copy, modify, translate or create derivative works from the Materials;
+  - publish, redistribute, sublicense, sell or rehost the Materials,
+    including the app binaries;
+  - reverse engineer, decompile or disassemble the app, or try to get
+    around its licensing;
+  - use the Reach Extender name, icon or artwork in a way that suggests
+    you are Reach Extender or that it endorses you.
+
+4. Trademarks
+
+"Reach Extender", the app icon and the glove artwork are trademarks of
+Soen Singh.
+
+5. Contributions
+
+If you send a contribution here (for example, a documentation fix in a pull
+request), you allow Soen Singh to use, change and publish it as part of
+Reach Extender, without payment and without restriction.
+
+6. Third-party content
+
+CODE_OF_CONDUCT.md is adapted from the Contributor Covenant, version 2.1,
+licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+That file stays under its own license.
+
+7. No warranty
+
+The Materials in this repository are provided "as is", without warranty of
+any kind. Warranties and liability for the app are set out in the EULA.
+
+Questions: soensingh@gmail.com
+
+This file is a plain-language notice, not legal advice. If it conflicts
+with the EULA, the EULA governs the app.

@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Purchase, license key or refund help
+    url: https://reachextender.soensingh.com/contact
+    about: Email soensingh@gmail.com privately. Please never post license keys, receipts or payment details in a public issue.
+  - name: Lost your license key?
+    url: https://reachextender.soensingh.com/restore
+    about: Get your key emailed to you again.
+  - name: Ideas, questions and show-and-tell
+    url: https://github.com/soensingh/reach-extender/discussions
+    about: Suggest ideas, ask questions and see the pinned Roadmap in Discussions.
+  - name: Website and download
+    url: https://reachextender.soensingh.com
+    about: Download Reach Extender, buy a license and read the FAQ.

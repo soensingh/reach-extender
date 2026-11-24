@@ -1,0 +1,140 @@
+name: Bug report
+description: Something in Reach Extender isn't working the way it should.
+title: "[Bug]: "
+labels: ["bug", "needs-repro"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report this.
+
+        **Purchase, license or refund problem?** Please don't file it here. Email **soensingh@gmail.com** instead, and never paste a license key into a public issue.
+        **Security problem?** Report it privately as described in [SECURITY.md](https://github.com/soensingh/reach-extender/blob/main/SECURITY.md).
+
+  - type: input
+    id: app-version
+    attributes:
+      label: Reach Extender version
+      description: "Finder → Applications → Reach Extender → Get Info (⌘I)."
+      placeholder: "0.1.0"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: macos
+    attributes:
+      label: macOS version
+      options:
+        - macOS 27
+        - macOS 26 Tahoe
+        - macOS 15 Sequoia
+        - macOS 14 Sonoma
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: macos-exact
+    attributes:
+      label: Exact macOS version (optional)
+      description: "Apple menu → About This Mac → More Info."
+      placeholder: "15.3.1"
+
+  - type: input
+    id: mac-model
+    attributes:
+      label: Mac model
+      description: "Apple menu → About This Mac."
+      placeholder: "MacBook Air (M2, 2022)"
+    validations:
+      required: true
+
+  - type: input
+    id: displays
+    attributes:
+      label: Displays (optional)
+      description: How many screens, and anything unusual about them (external display, different scaling, mirrored).
+      placeholder: "Built-in + one external 4K display"
+
+  - type: dropdown
+    id: sharing-app
+    attributes:
+      label: Screen-sharing or recording app
+      description: Pick everything that applies.
+      multiple: true
+      options:
+        - Not sharing or recording
+        - Zoom
+        - Google Meet
+        - Microsoft Teams
+        - Loom
+        - OBS
+        - Keynote
+        - QuickTime Player
+        - Other (please say which below)
+    validations:
+      required: true
+
+  - type: dropdown
+    id: sharing-mode
+    attributes:
+      label: What were you sharing?
+      options:
+        - Entire screen
+        - A single window or app
+        - Not applicable
+    validations:
+      required: false
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: The exact steps, starting from a fresh launch if you can.
+      placeholder: |
+        1. Turn on Presentation Mode (⌃⌥T)
+        2. Start sharing the entire screen in Zoom
+        3. Click quickly three times on a slide
+        4. ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      placeholder: What you expected to happen.
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      placeholder: What happened instead. Include any error message word for word.
+    validations:
+      required: true
+
+  - type: textarea
+    id: settings
+    attributes:
+      label: Your settings (optional)
+      description: Pointer style, whether the arm, sound, flashes or "show the real cursor" are on, and any changed shortcuts.
+
+  - type: textarea
+    id: media
+    attributes:
+      label: Screenshots or a screen recording (optional)
+      description: Drag files here. Please blur anything private before uploading.
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before you submit
+      options:
+        - label: I searched the existing issues and this hasn't been reported yet.
+          required: true
+        - label: I'm on the latest version of Reach Extender.
+          required: false
+        - label: This report contains no license key, receipt or other private information.
+          required: true

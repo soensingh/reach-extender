@@ -1,0 +1,34 @@
+title: "[Idea]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share an idea for Reach Extender. Upvote ideas you like with a thumbs-up reaction; it helps us decide what to build next.
+        Check the pinned **Roadmap** discussion first, since your idea may already be planned.
+
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What should Reach Extender do?
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it would help
+      description: When would you use it? Presentations, tutorials, pair programming, teaching...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      options:
+        - macOS
+        - Windows (upcoming)
+        - Both
+    validations:
+      required: false
