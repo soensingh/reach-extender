@@ -85,7 +85,7 @@ Two permissions are optional, and everything else works without them:
 | | |
 |---|---|
 | **Free trial** | 10 minutes of actual use. The clock only runs while the pointer is on. |
-| **Lifetime license** | **₹199** in India, **$2** everywhere else. Pay once, keep it. |
+| **Lifetime license** | **₹249** in India (GST included). Everywhere else, the same price in US dollars at today's exchange rate (about $2.68). Pay once, keep it. |
 | **Covers** | 1 Mac per license |
 | **Refunds** | 14-day money-back guarantee |
 
