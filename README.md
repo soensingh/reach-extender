@@ -10,7 +10,7 @@ A tiny macOS menu bar app that swaps your cursor for a cartoon glove on a stick.
 Every click lands with a tap people can see and hear, so everyone on your call, demo or recording knows exactly where you clicked.
 
 [![macOS 14+](https://img.shields.io/badge/macOS-14%2B-1E0A5C)](#download)
-[![Mac app: coming soon](https://img.shields.io/badge/Mac%20app-coming%20soon-7B3FF2)](#download)
+[![Download for Mac](https://img.shields.io/badge/Download-for%20Mac-7B3FF2)](https://github.com/soensingh/reach-extender/releases/latest/download/ReachExtender.dmg)
 [![Try it in your browser](https://img.shields.io/badge/Try%20it-in%20your%20browser-7B3FF2)](https://reachextender.soensingh.com)
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary-555555)](LICENSE)
 [![Windows: coming soon](https://img.shields.io/badge/Windows-coming%20soon-888888)](#faq)
@@ -31,7 +31,7 @@ Every click lands with a tap people can see and hear, so everyone on your call, 
 
 Screen shares shrink your cursor to a speck. Reach Extender gives it a body.
 
-- **A pointer people can follow.** A white glove on a long stick that swings as you move. Swap it for a point with the thumb out, a fist, a middle finger for the meeting that won't end, a paw, an arrow or a ring. Right hand or left, six preset colors (or any color you like), sized from subtle to projector-huge.
+- **A pointer people can follow.** A white glove on a long stick that swings as you move. Swap it for a point with the thumb out, a fist, or a middle finger for the meeting that won't end. Right hand or left, six preset colors (or any color you like), sized from subtle to projector-huge.
 - **Every click is a tap.** The glove winds up and strikes on each click. Keep clicking quickly and the flashes build: sparkle, burst, big burst, star, splat.
 - **Ink that picks its own color.** Automatic flash color goes black or white depending on what's under the click, so it shows up on a white slide and a dark editor alike.
 - **A tap you can hear.** Tap, knock, tick or pop, or load your own sound. Share system audio and your viewers hear it too.
@@ -43,7 +43,7 @@ Screen shares shrink your cursor to a speck. Reach Extender gives it a body.
 - **Out of your way.** It lives in the menu bar with no Dock icon, and it can open at login.
 
 <p align="center">
-  <img src="assets/pointer-styles.png" width="100%" alt="The seven pointer styles: Glove, Point, Fist, Middle Finger, Paw, Arrow and Ring, and six preset colors">
+  <img src="assets/pointer-styles.png" width="100%" alt="The four pointer styles: Glove, Point, Fist and Middle Finger, and six preset colors">
 </p>
 
 <p align="center">
@@ -62,18 +62,13 @@ Screen shares shrink your cursor to a speck. Reach Extender gives it a body.
 
 ## Download
 
-**Coming soon.** The Mac app is in its final checks: signing and notarization with Apple, so it opens without warnings.
-
-- **Get notified:** click **Watch → Custom → Releases** at the top of this page, or leave your email on the [download page](https://reachextender.soensingh.com/download).
-- **Can't wait?** [Try the glove in your browser](https://reachextender.soensingh.com) right now.
-
-When it's out, the DMG will be on the website and in **[GitHub Releases](https://github.com/soensingh/reach-extender/releases)**:
+**[Download Reach Extender for Mac](https://github.com/soensingh/reach-extender/releases/latest/download/ReachExtender.dmg)**, also on the [website](https://reachextender.soensingh.com/download) and in **[GitHub Releases](https://github.com/soensingh/reach-extender/releases)**. It's signed and notarized by Apple, so it opens without warnings.
 
 1. Open the DMG and drag **Reach Extender** into **Applications**.
 2. Open it. Look for the hand in your menu bar: styles, sound and settings live there.
 3. Press **⌃⌥P** to show or hide the pointer.
 
-It will need **macOS 14 Sonoma or later**. A Windows version is in the works.
+It needs **macOS 14 Sonoma or later**. It's free for 10 minutes of use; a lifetime license is on the [website](https://reachextender.soensingh.com/#pricing). New versions arrive inside the app (or click **Watch → Custom → Releases** here to hear about them). A Windows version is in the works.
 
 Two permissions are optional, and everything else works without them:
 

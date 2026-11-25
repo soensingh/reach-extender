@@ -6,16 +6,14 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and
 
 ## [Unreleased]
 
-<!-- When you publish 0.1.0, change the heading below to "## [0.1.0] - YYYY-MM-DD" and keep this empty section for the next version. -->
-
-## [0.1.0] - Unreleased
+## [0.1.0] - 2026-11-26
 
 The first public release, for macOS 14 Sonoma and later.
 
 ### Added
 
 - **Animated pointer** that replaces the macOS cursor, drawn on a see-through, click-through layer above every app, so clicks land exactly where they always do.
-- **Seven pointer styles:** four cartoon hands (the glove, a point with the thumb out, a fist and a middle finger), a paw, an arrow and a ring.
+- **Four pointer styles,** all cartoon hands: the glove, a point with the thumb out, a fist and a middle finger.
 - **Right or left hand:** the right hand reaches in from the bottom right (the default); the left hand mirrors it from the bottom left.
 - **Six preset colors** (white, yellow, coral, blue, green, purple), plus any custom color.
 - **Size slider**, from small to huge.
