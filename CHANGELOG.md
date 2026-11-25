@@ -15,7 +15,8 @@ The first public release, for macOS 14 Sonoma and later.
 ### Added
 
 - **Animated pointer** that replaces the macOS cursor, drawn on a see-through, click-through layer above every app, so clicks land exactly where they always do.
-- **Four pointer styles:** a cartoon glove, a paw, an arrow and a ring.
+- **Seven pointer styles:** four cartoon hands (the glove, a point with the thumb out, a fist and a middle finger), a paw, an arrow and a ring.
+- **Right or left hand:** the right hand reaches in from the bottom right (the default); the left hand mirrors it from the bottom left.
 - **Six preset colors** (white, yellow, coral, blue, green, purple), plus any custom color.
 - **Size slider**, from small to huge.
 - **The arm:** a long stick that reaches up from below the screen and swings as you move. You can turn it off.

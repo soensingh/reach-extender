@@ -31,7 +31,7 @@ Every click lands with a tap people can see and hear, so everyone on your call, 
 
 Screen shares shrink your cursor to a speck. Reach Extender gives it a body.
 
-- **A pointer people can follow.** A white glove on a long stick that swings as you move, or pick a paw, an arrow or a ring. Six preset colors (or any color you like), sized from subtle to projector-huge.
+- **A pointer people can follow.** A white glove on a long stick that swings as you move. Swap it for a point with the thumb out, a fist, a middle finger for the meeting that won't end, a paw, an arrow or a ring. Right hand or left, six preset colors (or any color you like), sized from subtle to projector-huge.
 - **Every click is a tap.** The glove winds up and strikes on each click. Keep clicking quickly and the flashes build: sparkle, burst, big burst, star, splat.
 - **Ink that picks its own color.** Automatic flash color goes black or white depending on what's under the click, so it shows up on a white slide and a dark editor alike.
 - **A tap you can hear.** Tap, knock, tick or pop, or load your own sound. Share system audio and your viewers hear it too.
@@ -43,7 +43,7 @@ Screen shares shrink your cursor to a speck. Reach Extender gives it a body.
 - **Out of your way.** It lives in the menu bar with no Dock icon, and it can open at login.
 
 <p align="center">
-  <img src="assets/pointer-styles.png" width="100%" alt="The four pointer styles: Glove, Paw, Arrow and Ring, and six preset colors">
+  <img src="assets/pointer-styles.png" width="100%" alt="The seven pointer styles: Glove, Point, Fist, Middle Finger, Paw, Arrow and Ring, and six preset colors">
 </p>
 
 <p align="center">
