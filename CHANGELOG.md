@@ -6,6 +6,16 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and
 
 ## [Unreleased]
 
+## Windows 0.1.0 - 2026-11-27
+
+Reach Extender for Windows 10 (version 1809) and Windows 11, on Intel/AMD and Arm PCs, from the [Microsoft Store](https://apps.microsoft.com/detail/9PBN0WXF4ZN0). It has everything in the Mac's 0.1.0 below, with these differences:
+
+- It lives in the **system tray** instead of the menu bar.
+- The shortcuts are **Ctrl+Alt+P** (show or hide the pointer) and **Ctrl+Alt+T** (Presentation Mode). Both can be changed in Settings.
+- **No permissions to grant:** Automatic flash color and Presentation Mode work without any.
+- The **Microsoft Store** installs and updates it.
+- **One license, either platform:** a key works on one Mac or one Windows PC at a time, and **Move License to This PC** moves it over.
+
 ## [0.1.0] - 2026-11-26
 
 The first public release, for macOS 14 Sonoma and later.

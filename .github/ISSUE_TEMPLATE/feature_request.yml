@@ -36,7 +36,7 @@ body:
       label: Platform
       options:
         - macOS
-        - Windows (upcoming)
+        - Windows
         - Both
     validations:
       required: true

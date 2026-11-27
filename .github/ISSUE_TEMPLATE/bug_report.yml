@@ -15,7 +15,7 @@ body:
     id: app-version
     attributes:
       label: Reach Extender version
-      description: "Finder → Applications → Reach Extender → Get Info (⌘I)."
+      description: "Mac: Finder → Applications → Reach Extender → Get Info (⌘I). Windows: Reach Extender's Settings → Updates."
       placeholder: "0.1.0"
     validations:
       required: true
@@ -23,12 +23,14 @@ body:
   - type: dropdown
     id: macos
     attributes:
-      label: macOS version
+      label: Operating system
       options:
         - macOS 27
         - macOS 26 Tahoe
         - macOS 15 Sequoia
         - macOS 14 Sonoma
+        - Windows 11
+        - Windows 10
         - Other
     validations:
       required: true
@@ -36,16 +38,16 @@ body:
   - type: input
     id: macos-exact
     attributes:
-      label: Exact macOS version (optional)
-      description: "Apple menu → About This Mac → More Info."
-      placeholder: "15.3.1"
+      label: Exact version (optional)
+      description: "Mac: Apple menu → About This Mac → More Info. Windows: Start → Settings → System → About."
+      placeholder: "15.3.1, or Windows 11 24H2"
 
   - type: input
     id: mac-model
     attributes:
-      label: Mac model
-      description: "Apple menu → About This Mac."
-      placeholder: "MacBook Air (M2, 2022)"
+      label: Computer model
+      description: "Mac: Apple menu → About This Mac. Windows: Start → Settings → System → About."
+      placeholder: "MacBook Air (M2, 2022), or Dell XPS 13 (Intel)"
     validations:
       required: true
 
@@ -71,6 +73,7 @@ body:
         - OBS
         - Keynote
         - QuickTime Player
+        - Snipping Tool
         - Other (please say which below)
     validations:
       required: true
@@ -92,7 +95,7 @@ body:
       label: Steps to reproduce
       description: The exact steps, starting from a fresh launch if you can.
       placeholder: |
-        1. Turn on Presentation Mode (⌃⌥T)
+        1. Turn on Presentation Mode (⌃⌥T, or Ctrl+Alt+T on Windows)
         2. Start sharing the entire screen in Zoom
         3. Click quickly three times on a slide
         4. ...

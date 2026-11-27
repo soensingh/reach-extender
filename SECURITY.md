@@ -9,7 +9,7 @@ Security fixes go into the latest release. Please update before reporting.
 | 0.1.x (latest) | Yes |
 | Anything older | No |
 
-Reach Extender runs on macOS 14 Sonoma and later.
+Reach Extender runs on macOS 14 Sonoma and later, and on Windows 10 (version 1809) and Windows 11.
 
 ## Reporting a vulnerability
 
@@ -22,7 +22,7 @@ Report them privately, either:
 
 Helpful details:
 
-- the app version (Finder → Applications → Reach Extender → Get Info) and the macOS version;
+- the app version (Mac: Finder → Applications → Reach Extender → Get Info; Windows: Reach Extender's Settings → Updates) and the macOS or Windows version;
 - what you found and what an attacker could do with it;
 - steps to reproduce, or a proof of concept;
 - whether you've told anyone else.

@@ -1,6 +1,6 @@
 # Publishing a release
 
-These are the maintainer's steps for publishing a new Reach Extender build on this repository's [Releases](https://github.com/soensingh/reach-extender/releases) page. Commands assume the repo is `soensingh/reach-extender` and that you run them from this repository's folder with the GitHub CLI (`gh`) logged in.
+These are the maintainer's steps for publishing a new Reach Extender build for Mac on this repository's [Releases](https://github.com/soensingh/reach-extender/releases) page. (The Windows version is published to the [Microsoft Store](https://apps.microsoft.com/detail/9PBN0WXF4ZN0) through Microsoft Partner Center; nothing for Windows is uploaded here.) Commands assume the repo is `soensingh/reach-extender` and that you run them from this repository's folder with the GitHub CLI (`gh`) logged in.
 
 > [!IMPORTANT]
 > Only the finished DMG goes up here, attached to a GitHub Release. Never commit binaries, build folders, source code, keys or `.env` files to this repository.
